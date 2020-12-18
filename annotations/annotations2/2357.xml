@@ -1,1 +1,1 @@
-<annotation><folder>images</folder><filename>2357.png</filename><size><width>401</width><height>713</height><depth>3</depth></size><object><name>with_mask</name><bnbbox><xmin>5</xmin><ymin>323</ymin><xmax>58</xmax><ymax>349</ymax></bnbbox></object></annotation>
+<annotation><folder>images</folder><filename>2357.png</filename><size><width>401</width><height>713</height><depth>3</depth></size><object><name>with_mask</name><bndbox><xmin>58</xmin><ymin>5</ymin><xmax>349</xmax><ymax>323</ymax></bndbox></object></annotation>
